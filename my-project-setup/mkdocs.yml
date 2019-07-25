@@ -5,3 +5,4 @@ nav:
     - Courses: classes.md
     - Contact: contact.md
    
+theme: slate
