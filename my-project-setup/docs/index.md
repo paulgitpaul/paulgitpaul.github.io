@@ -1,6 +1,5 @@
 ## Paul Kittleson
-> Software Engineer with a passion for learning.
- I am a student at University of Wisconsin Eau Claire studying Computer Science Software Engineering 
+> I am a Computer Science Software Engineering student at University of Wisconsin - Eau Claire with a passion for learning. 
 
 ## Resume
 [View Resume](./Paul_Kittleson_Resume.pdf)
