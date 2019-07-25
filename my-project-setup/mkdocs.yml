@@ -1,0 +1,7 @@
+site_name: Paul Kittleson
+
+nav:
+    - Home: index.md
+    - Courses: classes.md
+    - Contact: contact.md
+   
